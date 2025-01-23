@@ -1,13 +1,13 @@
-# YouTube Title Generator 🎥✨
+# YouTube Title Generator 
 ![ain](https://github.com/user-attachments/assets/b17a713e-17c8-4217-bc1a-bda59410a204)
 
-## 📝 Description
+##  Description
 Un générateur intelligent de titres YouTube utilisant le Machine Learning pour aider les créateurs de contenu à produire des titres accrocheurs.
 
-## 🎯 Objectif du Projet
+##  Objectif du Projet
 Développer un modèle NLP capable de générer des titres de vidéos pertinents et attractifs en exploitant des données de tendances YouTube.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 - Interface utilisateur moderne avec Tkinter
 - Génération de titres basée sur un modèle LSTM
 - Copie facile des titres générés
